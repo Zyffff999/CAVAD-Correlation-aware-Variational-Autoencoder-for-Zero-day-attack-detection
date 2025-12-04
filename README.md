@@ -1,7 +1,5 @@
 # CAVAD: Correlation-Aware Variational Autoencoder for Zero-Day Network Anomaly Detection
 
-**CoNEXT Conference Presentation**
-
 This repository contains the reference implementation of **CAVAD** (Correlation-Aware Variational Autoencoder with Cross-Attention) for **zero-day network anomaly detection** from raw packet bytes.
 
 CAVAD is an unsupervised framework: it is trained only on benign traffic and detects attacks as **out-of-distribution (OOD)** samples in a learned latent space.
@@ -638,3 +636,4 @@ For questions, issues, or collaboration opportunities:
 **Last Updated**: December 2024
 **Version**: 1.0.0
 **Status**: CoNEXT Conference Submission
+
